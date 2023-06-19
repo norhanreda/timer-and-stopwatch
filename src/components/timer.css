@@ -1,0 +1,24 @@
+.stop {
+background-color: rgb(241, 85, 85);
+border-radius:20px;
+margin: 20px;
+padding: 10px;
+cursor: pointer;
+}
+
+.start{
+background-color: lightgreen;
+border-radius:20px;
+margin: 20px;
+padding: 10px;
+cursor: pointer;
+}
+button::-moz-focus-inner{
+    background-color: rgb(0, 0, 0);
+}
+.box{
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+
+}
