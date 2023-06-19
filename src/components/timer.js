@@ -26,23 +26,31 @@ const Timer=() =>{
     return ()=>clearInterval(timer);
 
   });
+  const reset=()=> {
+ sethours(0);
+ setminutes(0);
+ setseconds(0);
+  }
+  const start=()=> {
+    clearInterval(timer);
+  }
   return (
     <>
- 
+    <div className='top'> 
     <div className='all'>
 
     <div className='box'>
      <h1>Timer</h1>
      <h1> {hours}:{minutes}:{seconds} </h1>
-     <button className='stop'>
-      Start
+     <button className='stop' onClick={reset}>
+     Reset
      </button>
 
-     <button className='start'>Reset</button>
+     <button className='start' onClick={start}>Start</button>
 
     </div> 
     </div> 
-  
+    </div>
     </>
   );
 }

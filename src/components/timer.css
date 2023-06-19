@@ -22,11 +22,16 @@ button:hover{
     border-radius: 20px;
     margin: auto;
     padding: 10px;
-    width: 500px;
+    width: 50%;
+    display: flexbox;
 
 
 }
 .all{
      height: 100vh;
     background-color: rgb(86, 205, 237); 
+}
+.top{
+padding-top: 100px;
+background-color: rgb(86, 205, 237); 
 }
