@@ -28,8 +28,8 @@ const Timer=() =>{
   });
   return (
     <>
-    <div>
-    <div>
+ 
+    <div className='all'>
 
     <div className='box'>
      <h1>Timer</h1>
@@ -42,8 +42,7 @@ const Timer=() =>{
 
     </div> 
     </div> 
-        
-   </div>
+  
     </>
   );
 }
