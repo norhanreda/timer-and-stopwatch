@@ -1,5 +1,5 @@
 ## Description 
-it is a simple timer and stopwatch implemented with HTML , CSS ,React.js
+⏱️ ⌛ it is a simple timer and stopwatch implemented with HTML , CSS ,React.js 
 ## Website Link
 https://timer-and-stopwatch-ad892.web.app
 ## video 
