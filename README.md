@@ -3,8 +3,12 @@
 ## Website Link
 https://timer-and-stopwatch-ad892.web.app
 ## video 
+https://github.com/norhanreda/timer-and-stopwatch/assets/88630231/981c944d-9ef6-43e7-ae97-35827ffa8888
+
 
 ## screenshot
+![image](https://github.com/norhanreda/timer-and-stopwatch/assets/88630231/dd0f5d2f-4e0d-4e4e-b8cd-0738d8faeee8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
