@@ -1,5 +1,10 @@
+## Description 
+it is a simple timer and stopwatch implemented with HTML , CSS ,React.js
 ## Website Link
 https://timer-and-stopwatch-ad892.web.app
+## video 
+
+## screenshot
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,3 +75,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributers
+<table>
+  <tbody><tr>
+    <td align="center">
+    <a href="https://github.com/norhanreda">
+   <img class="avatar rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/88630231?s=400&amp;u=52eadd25f01f8d9c6b403c087da4d345054f8e0b&amp;v=4" width="200" height="200" alt="@norhanreda">
+    <br>
+    <sub><b>Norhan Reda</b></sub></a>
+  </td></tr>
+ </tbody></table>
